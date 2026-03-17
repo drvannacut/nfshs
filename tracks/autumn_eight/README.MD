@@ -1,3 +1,3 @@
 # AUTUMN EIGHT
--current version: 0.5
--base track: GT3
+current version: 0.5\
+base track: GT3\
